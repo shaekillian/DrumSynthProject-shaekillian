@@ -1,0 +1,24 @@
+<pattern>
+	<!-- Kick on strong beats -->
+	<hit sound="kick_drum.wav" time="0.0" velocity="1.0"/>
+	<hit sound="kick_drum.wav" time="1.0" velocity="0.9"/>
+	<hit sound="kick_drum.wav" time="2.0" velocity="1.0"/>
+	<hit sound="kick_drum.wav" time="3.0" velocity="0.9"/>
+
+	<!-- Snare on backbeat -->
+	<hit sound="snare_drum.wav" time="0.5" velocity="0.8"/>
+	<hit sound="snare_drum.wav" time="1.5" velocity="0.8"/>
+	<hit sound="snare_drum.wav" time="2.5" velocity="0.9"/>
+	<hit sound="snare_drum.wav" time="3.5" velocity="0.9"/>
+
+	<!-- Toms for fills -->
+	<hit sound="tom_low.wav" time="0.75" velocity="0.6"/>
+	<hit sound="tom_high.wav" time="1.25" velocity="0.6"/>
+	<hit sound="tom_low.wav" time="2.75" velocity="0.7"/>
+	<hit sound="tom_high.wav" time="3.25" velocity="0.7"/>
+
+	<!-- Cymbal accents lightly -->
+	<hit sound="cymbal.wav" time="0.0" velocity="0.3"/>
+	<hit sound="cymbal.wav" time="2.0" velocity="0.3"/>
+	<hit sound="cymbal.wav" time="3.5" velocity="0.4"/>
+</pattern>
